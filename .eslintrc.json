@@ -1,0 +1,17 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+    "extends": [
+        "plugin:react/recommended",
+        "plugin:@typescript-eslint/recommended",
+        "plugin:@typescript-eslint/recommended-requiring-type-checking"
+    ],
+    "parserOptions": {
+        "project": ["./tsconfig.json"]
+    },
+    "parser": "@typescript-eslint/parser",
+    "plugins": ["react", "@typescript-eslint"],
+    "overrides": [{ "files": ["*.ts", "*.tsx"] }]
+}
