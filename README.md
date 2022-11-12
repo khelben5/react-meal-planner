@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/khelben5/react-meal-planner/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/khelben5/react-meal-planner/actions/workflows/node.js.yml)
+
 # react-meal-planner
 Meal planner version written in React + Typescript
 # Getting Started with Create React App
