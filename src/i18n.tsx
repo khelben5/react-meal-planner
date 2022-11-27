@@ -8,6 +8,9 @@ import LanguageDetector from "i18next-browser-languagedetector";
 const resources = {
     en: {
         translation: {
+            home: {
+                title: "React meal planner",
+            },
             ingredients: {
                 title: "Ingredients",
             },
@@ -15,6 +18,9 @@ const resources = {
     },
     es: {
         translation: {
+            home: {
+                title: "React meal planner",
+            },
             ingredients: {
                 title: "Ingredientes",
             },

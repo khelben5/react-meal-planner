@@ -1,6 +1,6 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import { TopBar } from "./components/TopBar";
+import { TopBar } from "../components/TopBar";
 
 const Ingredients = () => {
     const { t } = useTranslation();

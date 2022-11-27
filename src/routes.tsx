@@ -1,7 +1,7 @@
 import React from "react";
 import { createBrowserRouter } from "react-router-dom";
-import Home from "./Home";
-import Ingredients from "./Ingredients";
+import Home from "./screens/Home";
+import Ingredients from "./screens/Ingredients";
 
 export const ingredientsRoute = "/ingredients";
 
